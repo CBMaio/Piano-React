@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/Piano-React/static/css/main.76a1da08.chunk.css",
+    "main.js": "/Piano-React/static/js/main.e49b30c1.chunk.js",
+    "main.js.map": "/Piano-React/static/js/main.e49b30c1.chunk.js.map",
+    "runtime-main.js": "/Piano-React/static/js/runtime-main.c9b12a5a.js",
+    "runtime-main.js.map": "/Piano-React/static/js/runtime-main.c9b12a5a.js.map",
+    "static/js/2.4e0a0a59.chunk.js": "/Piano-React/static/js/2.4e0a0a59.chunk.js",
+    "static/js/2.4e0a0a59.chunk.js.map": "/Piano-React/static/js/2.4e0a0a59.chunk.js.map",
+    "index.html": "/Piano-React/index.html",
+    "precache-manifest.f3ccbabd9ffe9508cb384616141d0f2d.js": "/Piano-React/precache-manifest.f3ccbabd9ffe9508cb384616141d0f2d.js",
+    "service-worker.js": "/Piano-React/service-worker.js",
+    "static/css/main.76a1da08.chunk.css.map": "/Piano-React/static/css/main.76a1da08.chunk.css.map",
+    "static/js/2.4e0a0a59.chunk.js.LICENSE.txt": "/Piano-React/static/js/2.4e0a0a59.chunk.js.LICENSE.txt",
+    "static/media/bob-esponja.mp3": "/Piano-React/static/media/bob-esponja.27a22618.mp3",
+    "static/media/do.wav": "/Piano-React/static/media/do.18fd3f6f.wav",
+    "static/media/fa.wav": "/Piano-React/static/media/fa.a787534a.wav",
+    "static/media/App.css": "/Piano-React/static/media/galaxy.f51e9e6c.jpg",
+    "static/media/la-pantera-rosa.mp3": "/Piano-React/static/media/la-pantera-rosa.81b58ea7.mp3",
+    "static/media/la.wav": "/Piano-React/static/media/la.10af03f3.wav",
+    "static/media/mi.wav": "/Piano-React/static/media/mi.1f26c778.wav",
+    "static/media/re.wav": "/Piano-React/static/media/re.217b943a.wav",
+    "static/media/recuerdame-coco.mp3": "/Piano-React/static/media/recuerdame-coco.f4080db9.mp3",
+    "static/media/si.wav": "/Piano-React/static/media/si.70924435.wav",
+    "static/media/sol.wav": "/Piano-React/static/media/sol.785a33d2.wav",
+    "static/media/un-mundo-ideal-aladdin.mp3": "/Piano-React/static/media/un-mundo-ideal-aladdin.c8a16086.mp3",
+    "static/media/yo-soy-tu-amigo-fiel-toy-story.mp3": "/Piano-React/static/media/yo-soy-tu-amigo-fiel-toy-story.2e1a86a5.mp3"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c9b12a5a.js",
+    "static/js/2.4e0a0a59.chunk.js",
+    "static/css/main.76a1da08.chunk.css",
+    "static/js/main.e49b30c1.chunk.js"
+  ]
+}
