@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
-import logo from './logo.svg';
 import './App.css';
+import Songs from './Componentes/canciones'
 
 function App() {
 
@@ -54,7 +54,8 @@ function App() {
   }
 
   return (
-    <div className="App">
+    <div className="App totalHeight">
+      <Songs/>
       <div className="title">
           <h1>Piano con React</h1>
           <h2>¡A tocar!</h2>
@@ -64,11 +65,12 @@ function App() {
           {
             notas.map( nota => {
               return(
-                <div 
+                <div
+                  key = {nota.nombre}
                   className = {`nota ${notaSonando === nota.nombre && 'notaSonando'}`}
                   onClick = {() => handleClick(nota)}>
                     {
-                      notaSonando == nota.nombre &&
+                      notaSonando === nota.nombre &&
                       <h2 className="nombreDeNota">{notaSonando}</h2>
                     }
                     {
