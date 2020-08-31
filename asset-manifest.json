@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Piano-React/static/css/main.76a1da08.chunk.css",
-    "main.js": "/Piano-React/static/js/main.e49b30c1.chunk.js",
-    "main.js.map": "/Piano-React/static/js/main.e49b30c1.chunk.js.map",
+    "main.css": "/Piano-React/static/css/main.f7e21231.chunk.css",
+    "main.js": "/Piano-React/static/js/main.7109df00.chunk.js",
+    "main.js.map": "/Piano-React/static/js/main.7109df00.chunk.js.map",
     "runtime-main.js": "/Piano-React/static/js/runtime-main.c9b12a5a.js",
     "runtime-main.js.map": "/Piano-React/static/js/runtime-main.c9b12a5a.js.map",
     "static/js/2.4e0a0a59.chunk.js": "/Piano-React/static/js/2.4e0a0a59.chunk.js",
     "static/js/2.4e0a0a59.chunk.js.map": "/Piano-React/static/js/2.4e0a0a59.chunk.js.map",
     "index.html": "/Piano-React/index.html",
-    "precache-manifest.f3ccbabd9ffe9508cb384616141d0f2d.js": "/Piano-React/precache-manifest.f3ccbabd9ffe9508cb384616141d0f2d.js",
+    "precache-manifest.72ba8e94deb4333d7659b756a2ac5325.js": "/Piano-React/precache-manifest.72ba8e94deb4333d7659b756a2ac5325.js",
     "service-worker.js": "/Piano-React/service-worker.js",
-    "static/css/main.76a1da08.chunk.css.map": "/Piano-React/static/css/main.76a1da08.chunk.css.map",
+    "static/css/main.f7e21231.chunk.css.map": "/Piano-React/static/css/main.f7e21231.chunk.css.map",
     "static/js/2.4e0a0a59.chunk.js.LICENSE.txt": "/Piano-React/static/js/2.4e0a0a59.chunk.js.LICENSE.txt",
     "static/media/bob-esponja.mp3": "/Piano-React/static/media/bob-esponja.27a22618.mp3",
     "static/media/do.wav": "/Piano-React/static/media/do.18fd3f6f.wav",
@@ -29,7 +29,7 @@
   "entrypoints": [
     "static/js/runtime-main.c9b12a5a.js",
     "static/js/2.4e0a0a59.chunk.js",
-    "static/css/main.76a1da08.chunk.css",
-    "static/js/main.e49b30c1.chunk.js"
+    "static/css/main.f7e21231.chunk.css",
+    "static/js/main.7109df00.chunk.js"
   ]
 }
